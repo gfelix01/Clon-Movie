@@ -1,6 +1,7 @@
 # Clon-Movie
 
 Este proyecto es un clon de una aplicación web relacionada con películas. Proporciona información sobre películas, imágenes y otros recursos relacionados con la industria cinematográfica.
+![Logo de Mi Proyecto](https://clon-movie-npv0cfiau-gfelix01.vercel.app/)
 
 ## Contenido
 
