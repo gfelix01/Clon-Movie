@@ -2,6 +2,7 @@
 
 Este proyecto es un clon de una aplicación web centrada en películas que consume datos de una API para proporcionar información detallada sobre películas, imágenes y otros recursos relacionados con la industria cinematográfica.
 
+
 ## Contenido
 
 - [Instalación](#instalación)
