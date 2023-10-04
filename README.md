@@ -1,6 +1,6 @@
 # Clon-Movie
 
-Este proyecto es un clon de una aplicación web relacionada con películas. Proporciona información sobre películas, imágenes y otros recursos relacionados con la industria cinematográfica.
+Este proyecto es un clon de una aplicación web centrada en películas que consume datos de una API para proporcionar información detallada sobre películas, imágenes y otros recursos relacionados con la industria cinematográfica.
 
 ## Contenido
 
@@ -15,11 +15,18 @@ Este proyecto es un clon de una aplicación web relacionada con películas. Prop
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/gfelix01/Clon-Movie.git
+   cd Clon-Movie
+   ```
 
+## Uso
 
-cd Clon-Movie
+Este proyecto consume una API de películas para obtener información actualizada sobre diferentes películas. Puedes explorar y visualizar detalles como títulos, imágenes, puntuaciones y descripciones de películas.
 
+## Estructura del Proyecto
 
+La estructura del proyecto se organiza de la siguiente manera:
+
+```plaintext
 Clon-Movie/
 |-- css/
 |-- img/
@@ -28,10 +35,18 @@ Clon-Movie/
 |-- eltury1420.pub
 |-- index.html
 |-- LICENSE
+```
 
+- **css/**: Contiene archivos de estilo para la interfaz de usuario.
+- **img/**: Almacena imágenes utilizadas en la aplicación.
+- **js/**: Incluye scripts JavaScript para la funcionalidad de la aplicación.
+- **index.html**: Página principal que muestra la interfaz de usuario.
+- **LICENSE**: Archivo de licencia del proyecto.
+
+## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras errores o tienes mejoras que sugerir, no dudes en abrir un problema o enviar una solicitud de extracción.
 
+## Licencia
 
-
-Este es un ejemplo básico, y puedes personalizarlo según las necesidades específicas de tu proyecto. Asegúrate de proporcionar información clave sobre cómo instalar, utilizar y contribuir al proyecto, así como cualquier otra información relevante. ¡Buena suerte con tu proyecto!
+Este proyecto está bajo la [Licencia MIT](LICENSE).
